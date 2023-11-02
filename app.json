@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "react_native",
-    "slug": "react_native"
+    "slug": "react_native",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "51ff306c-38fc-4422-a2c2-3637cae2eab2"
+      }
+    },
+    "android": {
+      "package": "com.rameesap.react_native"
+    }
   }
 }
